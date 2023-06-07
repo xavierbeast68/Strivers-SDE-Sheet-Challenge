@@ -3,7 +3,7 @@
 <h1> Set Matrix Zeroes </h1>
 
 <!-- Difficulty -->
-<p style="color: rgb(255 192 30);background: rgba(255, 192, 30, 0.3); padding-bottom: 0.25rem; padding-top: 0.25rem;    padding-left: 0.625rem; padding-right: 0.625rem;border-radius: 21px; display: inline;">Medium</p>
+<p style="color : rgba(255, 255, 255, 0.65);padding-bottom: 0.25rem; padding-top: 0.25rem;    padding-left: 0.625rem; padding-right: 0.625rem; display:inline; font-size: 1.25rem">Medium</p>
 
 <br>
 
@@ -39,10 +39,10 @@ You must do it [in place](https://en.wikipedia.org/wiki/In-place_algorithm).
 
 <!-- constraints -->
 <strong>Constraints:</strong>
-- `m == matrix.length`
-- `n == matrix[0].length`
-- `1 <= m, n <= 200`
-- `-231 <= matrix[i][j] <= 231 - 1`
+- <p><code>m == matrix.length</code></p>
+- <p><code>n == matrix[0].length</code></p>
+- <p><code>1 <= m, n <= 200</code></p>
+- <p><code>-2<sup>31</sup> <= matrix[i][j] <= 2<sup>31</sup> - 1</code></p>
 
 <strong>Follow up:</strong>
 

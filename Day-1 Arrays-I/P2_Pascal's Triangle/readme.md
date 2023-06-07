@@ -3,7 +3,7 @@
 <h1> Pascal's Triangle </h1>
 
 <!-- Difficulty -->
-<p style="color: rgb(0 184 163); background: rgba(0, 184, 163, 0.3); padding-bottom: 0.25rem; padding-top: 0.25rem;    padding-left: 0.625rem; padding-right: 0.625rem;border-radius: 21px; display: inline;">Easy</p>
+<p style="color : rgba(255, 255, 255, 0.65);padding-bottom: 0.25rem; padding-top: 0.25rem;    padding-left: 0.625rem; padding-right: 0.625rem; display:inline; font-size: 1.25rem">Easy</p>
 
 <br>
 
