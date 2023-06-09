@@ -1,13 +1,22 @@
 # Striver's SDE Sheet Challenge
-This is repo for the __Striver's SDE Sheet Challenge!__ This GitHub repository is dedicated to a 2-month long coding challenge that consists of 190+ carefully selected questions for top Product Based Companies (PBCs). The goal of this challenge is to enhance your coding skills, problem-solving abilities, and overall understanding of data structures and algorithms.
+This GitHub repository contains my Solutions to Striver SDE Sheet and is dedicated to a 2-month long ***Striver's SDE Sheet Challenge!*** that consists of **190+ highly curated** DSA-based problems for top Product Based Companies (PBCs). The goal of this challenge is to enhance your coding skills, problem-solving abilities, and overall understanding of data structures and algorithms.
 
-# Challenge Details
-- Duration: 2 months
-- Questions: 190 selected questions
-- Codes will be organized folder wise
+<hr>
 
-# Sheet Link:
+# Repository Overview
+- Questions: 190 selected questions.
+- **Accepted C++ Codes** of every problem **organized folder** wise.
+- Readme's in every folder containing -  
+    - problem description
+    - ***striver video link***
+    - corresponding ***TakeUForward article*** link
+    - links and solutions to similar or varied version of same type of problem on different platforms other than **CodeStudio** like **Leetcode**, **GeeksforGeeks** etc.
+    - some supplementary material, for more advance better or better understanding in some problems.
+
+<hr>
+
+### Sheet Link:
 https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/
 
-# Video Link:
+### Striver SDE Sheet Challenge June 2023 Video Link:
 https://youtu.be/_2iQOQiCzOM
